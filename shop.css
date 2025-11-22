@@ -1,0 +1,117 @@
+ul li{
+    display:inline;
+ list-style:none;
+ 
+padding-right: 190px;
+text-align: center;
+font: size 30px;
+
+}
+
+h1
+{
+   background-color: rgb(250, 199, 59);
+    color: black;
+    text-align: center;
+    padding: 42px;
+}
+
+a{
+text-decoration: none;
+color: white;
+position:sticky;
+font-size: larger;
+}
+#search
+{
+width:95%;
+color:black;
+
+font-size: larger;
+}
+body
+{
+background-image: url('bk.jpg');
+background-size: cover;
+ background-attachment: fixed;
+
+ background-attachment: fixed;
+}
+.button
+{
+ background-color: black;
+ color:azure;
+ 
+ border-radius:20px;
+ margin:10px;
+ 
+
+}
+.five,.seven
+{
+    display:flex;
+    flex-direction:row ;
+   
+    
+    
+ 
+}
+.six,.eight
+{
+    border:2px solid black;
+   border-radius: 10px;
+     width: 200px;
+     height:auto;
+     background-color:rgb(250, 250, 250);
+     margin:20px;
+
+     
+}
+.six,.eight
+{
+transform: width 1s, height 1s;
+}
+.eight:hover {
+width: 200px;
+height: 250px;
+transform: scale(1.1);
+background-color: white;
+}
+.six:hover {
+width: 200px;
+height: 250px;
+background-color: white;
+transform: scale(1.1);
+}
+
+
+
+.insta{
+    background-color: azure;
+}
+
+p{
+ font-size: 20px;
+}
+nav
+{
+    position:sticky;
+    top:0;
+    border:2px solid white;
+    background-color:black;
+    width:100%
+    height:auto;
+}
+footer
+{
+    background-color: black;
+    padding:60px;
+}
+h2
+{
+    color: white;
+}
+p
+{
+    background-color: white;
+}
